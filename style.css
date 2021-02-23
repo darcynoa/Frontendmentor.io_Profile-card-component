@@ -32,6 +32,10 @@ span {
     margin-left: 10px;
 }
 
+/**
+ * Class Styles
+ */
+
 .pattern {
     position: absolute;
     overflow:hidden;
